@@ -1,0 +1,3 @@
+To do list:
+- replicate temporal plots for main European cities
+
